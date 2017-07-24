@@ -6,7 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"electron ."
   },
-  "author": "",
+  "author": {
+    "name":"nuttaphon chanpan",
+    "email":"chanpan.nuttaphon@gmail.com"
+  },
   "license": "ISC",
-  "description": ""
+  "description": "electron desktop"
 }
